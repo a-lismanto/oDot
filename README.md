@@ -1,5 +1,5 @@
 # oDot
-Simple app to view list of heroes in Dota.
+Simple app to view list of heroes in Dota 2, with API provided by [opendota](https://www.opendota.com/)
 
 
 ## Instalation
